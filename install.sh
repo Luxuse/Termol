@@ -3,7 +3,7 @@
 #  Termol - Install Script
 # ==========================================================
 
-APP_NAME="termol"
+APP_NAME="termol.sh"
 REPO_URL="https://github.com/Luxuse/Termol.git"
 INSTALL_DIR="/opt/${APP_NAME}"
 BIN_PATH="/usr/local/bin/${APP_NAME}"
